@@ -2,7 +2,12 @@ body {
     background: rgb(218, 214, 220);
     background: linear-gradient(90deg, rgb(202, 250, 250) 0%, rgb(48, 215, 215) 100%);
 }
-
+button{
+    width: 5%;
+    border-style:groove;
+    border: 2px solid white;
+    border-radius: 5rem;
+}
 .container {
     display: grid;
     border: 2px solid white;
